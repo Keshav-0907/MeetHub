@@ -1,6 +1,6 @@
 # MeetHub
 
-MeetHub is an innovative online meeting platform developed using Socket.IO and ReactJS.
+MeetHub is an online meeting platform developed using Socket.IO and ReactJS.
 
 ## Features:
 
